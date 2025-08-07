@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "A Sudoku-like Queens puzzle game with animations",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
